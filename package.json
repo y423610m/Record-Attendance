@@ -1,0 +1,17 @@
+{
+  "name": "record_attend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arp-a": "^0.5.2",
+    "export-to-csv": "^0.2.1",
+    "node-cron": "^3.0.0"
+  }
+}
